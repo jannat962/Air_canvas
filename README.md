@@ -3,7 +3,6 @@
 エア・キャンバスは、OpenCVのコンピュータ・ビジョン技術を使用して実現されたプロジェクトです。このプロジェクトでは、指先の色のついたカラーマーカーの動きをカメラで検出し、その上に描画することができます。プロジェクトの構築には、色の検出と追跡が使用されます。カラーマーカーが検出され、生成されたマスクに対して形態素演算が行われます。最後に、検出された輪郭の中心座標を連続するフレームのために配列に格納し、それらをフレーム上に描画します。このプロジェクトは、指を振るだけで自在な描画を行うことができるという特徴を持っています。
 (Air Canvas is a project realised using OpenCV computer vision technology. The project uses a camera to detect the movement of coloured colour markers on the fingertips and draw on them. Colour detection and tracking is used to build the project. The colour markers are detected and morphological operations are performed on the generated masks. Finally, the centre coordinates of the detected contours are stored in an array for successive frames and they are drawn on the frames. The project is characterised by the ability to draw at will, simply by waving a finger.
 
-Translated with www.DeepL.com/Translator (free version))
 
 Computer vision project implemented with OpenCV
 
